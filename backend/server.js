@@ -6,7 +6,7 @@ var app         = express();
 var apiRoutes 	= express.Router(); 
 var bodyParser  = require('body-parser');
 var morgan      = require('morgan');
-var API 		= require("./Authentication.js");
+var API 		= require("./modules/Authentication.js");
 var jwt    		= require('jsonwebtoken');
     
 // =======================
