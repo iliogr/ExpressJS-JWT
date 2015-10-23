@@ -1,0 +1,17 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #333;
+}
+
+.form{
+	position: relative;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 200px;
+}
+
+.form h1{
+	color: white;
+}
